@@ -1,0 +1,5 @@
+my_tuple=("excel","word","powerpoint")
+d=my_tuple.count("excel")
+e=my_tuple.index("powerpoint")
+f=len(my_tuple)
+print(d,e,f)
