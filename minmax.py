@@ -24,7 +24,7 @@ def minmax(data):
         elif int(b)<=int(max):
             k+=1 
             continue
-    return (int(min),int(max))
+    return ("min=",int(min),"max=",int(max))
 
 d= input("input number:")
 
