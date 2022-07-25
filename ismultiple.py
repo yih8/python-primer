@@ -1,8 +1,6 @@
 
 
 
-from base64 import b16decode
-
 
 def is_multiple(n,m):
     i=1
